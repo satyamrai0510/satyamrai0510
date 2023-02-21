@@ -1,4 +1,4 @@
-# <h1 align="center"/> Hi there, I am [Satyam Rai](https://github.com/satyamrai0510) 👋
+# <h1 align="center"> Hi there, I am [Satyam Rai](https://github.com/satyamrai0510) 👋</h1>
 
 ## 👥 Connect With Me
 
