@@ -1,20 +1,12 @@
-- 👋 Hi, I’m @satyamrai0510
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# <h1 align="center"/> Hi there, I am [Satyam Rai](https://github.com/satyamrai0510) 👋
 
-*INSTAGRAM-[click here..](https://www.instagram.com/satyamrai0510/)
+## 👥 Connect With Me
 
-*LINKEDIN-[click here..](https://www.linkedin.com/in/satyamrai0510)
+<a href="https://www.facebook.com/satyamrai0510/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/satyamrai0510"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/satyamrai0510/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/satyamrai0510"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
-*TWITTER-[click here..](https://www.twitter.com/satyamrai0510/)
+## 📊 Github Stats
 
-*FACEBOOK-[click here..](https://www.facebook.com/satyamrai0510/)
-
-
-
-<!---
-satyamrai0510/satyamrai0510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img src="https://github-readme-stats.vercel.app/api?username=satyamrai0510&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"><p>
